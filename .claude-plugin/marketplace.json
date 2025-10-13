@@ -1,0 +1,18 @@
+{
+    "name": "dialectic-marketplace",
+    "owner": {
+        "name": "Urav Maniar",
+        "email": "urav06@gmail.com"
+    },
+    "metadata": {
+        "description": "Plugin marketplace for Dialectic - a computational argumentation system",
+        "version": "0.1.0"
+    },
+    "plugins": [
+        {
+            "name": "dialectic",
+            "source": "./.claude",
+            "description": "Computational argumentation system for structured AI debates using Toulmin framework"
+        }
+    ]
+}

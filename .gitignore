@@ -1,0 +1,5 @@
+# Local settings
+.claude/settings.local.json
+
+# OS
+.DS_Store

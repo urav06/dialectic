@@ -1,0 +1,21 @@
+{
+    "permissions": {
+        "allow": [
+            "Skill(debate-orchestrator)",
+            "SlashCommand(/debate-run:*)",
+            "Bash(mkdir:*)",
+            "Bash(python3:*)",
+            "Write(**/debate.md)",
+            "Write(**/scores.json)",
+            "Write(**/arguments/**)",
+            "Write(/tmp/**)",
+            "WebSearch",
+            "WebFetch"
+        ]
+    },
+    "statusLine": {
+        "type": "command",
+        "command": ".claude/statusline.sh",
+        "padding": 0
+    }
+}

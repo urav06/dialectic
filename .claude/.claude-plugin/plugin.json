@@ -1,0 +1,21 @@
+{
+  "name": "dialectic",
+  "description": "A computational argumentation system for structured AI debates using Toulmin argument framework. Create debate motions, run multi-exchange debates between AI agents, and generate comprehensive reports with argument visualization.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Urav Maniar",
+    "email": "urav06@gmail.com"
+  },
+  "homepage": "https://github.com/urav06/dialectic",
+  "repository": "https://github.com/urav06/dialectic",
+  "license": "MIT",
+  "keywords": [
+    "debate",
+    "philosophy",
+    "toulmin",
+    "reasoning",
+    "critical-thinking",
+    "logic",
+    "argumentation"
+  ]
+}
