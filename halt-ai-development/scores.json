@@ -1,0 +1,142 @@
+{
+  "prop_000a": {
+    "current_score": 0.3,
+    "history": [
+      {
+        "score": 0.3,
+        "reasoning": "Strong foundational argument with authoritative evidence including the CAIS statement signed by leading AI researchers and Stanford economic analysis. The irreversibility warrant is logically sound. However, it establishes stakes rather than addressing feasibility of the motion's mechanism. The nuclear precedent backing is apt but underdeveloped.",
+        "scored_at": "2025-11-21T06:18:22.249327+00:00"
+      }
+    ]
+  },
+  "prop_000b": {
+    "current_score": 0.4,
+    "history": [
+      {
+        "score": 0.4,
+        "reasoning": "Most empirically grounded proposition argument. The alignment faking research (78% rate) is devastating evidence that current safety approaches are inadequate. The OpenAI Superalignment dissolution and FLI Safety Index provide convergent evidence from multiple sources. Directly addresses the technical gap that justifies pause rather than continued development.",
+        "scored_at": "2025-11-21T06:18:22.249848+00:00"
+      }
+    ]
+  },
+  "prop_000c": {
+    "current_score": 0.05,
+    "history": [
+      {
+        "score": 0.05,
+        "reasoning": "The Asilomar analogy provides useful precedent but faces obvious disanalogies: biotechnology involved academic researchers amenable to coordination, not competitive commercial and geopolitical actors. The Nature retrospective showing zero incidents is compelling, but the argument does not address enforcement mechanisms or international coordination challenges.",
+        "scored_at": "2025-11-21T06:18:22.249969+00:00"
+      }
+    ]
+  },
+  "opp_000a": {
+    "current_score": -0.1,
+    "history": [
+      {
+        "score": -0.1,
+        "reasoning": "Valid procedural concern about measurement challenges. However, this critique applies to most regulatory frameworks; safety standards for nuclear and aviation were also iteratively developed. The argument conflates difficulty of measurement with impossibility. GovAI source actually discusses evaluation approaches, undermining the unfalsifiability claim.",
+        "scored_at": "2025-11-21T06:18:22.250080+00:00"
+      }
+    ]
+  },
+  "opp_000b": {
+    "current_score": 0.15,
+    "history": [
+      {
+        "score": 0.15,
+        "reasoning": "Strongest opposition argument. The RAND data on China's rapid capability convergence is timely and directly relevant. The strategic logic that unilateral restraint shifts development to less safety-conscious actors is compelling. However, it assumes China would not also benefit from safety frameworks, and does not address coordination mechanisms.",
+        "scored_at": "2025-11-21T06:18:22.250194+00:00"
+      }
+    ]
+  },
+  "opp_000c": {
+    "current_score": -0.8,
+    "history": [
+      {
+        "score": -0.8,
+        "reasoning": "Weakest argument in the set. The benefits cited (healthcare, climate modeling) come from narrow AI applications, not AGI specifically. Conflates current AI progress with AGI development that the motion targets. The framing of existential risks as merely 'speculative' contradicts expert consensus cited by prop_000a. Does not engage with the core proposition claim about irreversibility.",
+        "scored_at": "2025-11-21T06:18:22.250321+00:00"
+      }
+    ]
+  },
+  "prop_001": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Strong empirical grounding with specific citations to Seoul Summit commitments, compute thresholds, and CTBT verification precedent. Effectively attacks the measurability objection by demonstrating concrete international progress. The nuclear treaty analogy is well-developed. However, the argument that multilateral coordination is 'inherently' part of the motion is somewhat assumed rather than proven. The defense of Asilomar precedent adds strategic value but doesn't fully address the structural differences raised elsewhere.",
+        "scored_at": "2025-11-21T06:22:45.267237+00:00"
+      }
+    ]
+  },
+  "opp_001": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "The paradox framing is rhetorically effective but logically incomplete. Anthropic and OpenAI citations support empirical safety research but conflate 'frontier development' with 'AGI development'\u2014safety work can continue on sub-AGI systems. The aviation analogy is weak: planes didn't pose existential risk during testing. The attack on Asilomar has merit regarding commercial incentives, but the circularity argument overstates the case\u2014theoretical and policy framework development doesn't require frontier systems.",
+        "scored_at": "2025-11-21T06:22:45.267925+00:00"
+      }
+    ]
+  },
+  "prop_002": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Strong grounds attack on opp_001's safety-capability paradox by distinguishing capability-independent safety research (Bengio's Scientist AI, formal verification, interpretability on smaller models). The Dalrymple citation effectively shows verification work can proceed without ASL-4 capabilities. The warrant clarifying that existing frontier models suffice for safety research is tactically sharp. However, the nuclear moratorium analogy is underdeveloped and the argument doesn't fully address whether capability-independent safety generalizes to AGI-level systems.",
+        "scored_at": "2025-11-21T06:28:37.065583+00:00"
+      }
+    ]
+  },
+  "opp_002": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "The Paris Summit evidence is compelling on its face\u2014US/UK refusal and Amodei's 'missed opportunity' critique are strong sources. However, the argument conflates international coordination difficulty with impossibility. The warrant assumes a global coordinated pause is necessary, but domestic regulation or coalition-based approaches remain viable. Citing Amodei simultaneously as authority while his company continues safety-focused development undermines the claim that frameworks cannot emerge. The trajectory argument (Bletchley to Paris) is selective\u2014Seoul produced concrete commitments.",
+        "scored_at": "2025-11-21T06:28:37.066447+00:00"
+      }
+    ]
+  },
+  "prop_003": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Strong reframe distinguishing summit diplomacy from regulatory infrastructure. The EU AI Act Article 99 evidence (binding penalties up to 7% global turnover, effective August 2025) and hardware governance mechanisms provide concrete enforcement channels independent of diplomatic consensus. The attack on opp_002's reliance on Paris Summit failures is effective: binding legislation and technical chokepoints create enforcement pathways the opposition overlooked. However, the qualifier 'regulated jurisdictions' concedes significant enforcement gaps, and the nuclear nonproliferation analogy is assertive rather than developed.",
+        "scored_at": "2025-11-21T06:32:43.813345+00:00"
+      }
+    ]
+  },
+  "opp_003": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "The DeepMind SAE deprioritization evidence is strong and specific, effectively undermining prop_002's interpretability claims. However, the argument overreaches: SAE failure does not prove all safety research requires frontier systems. The LawZero critique (18 months, underfunded) is valid but attacks a single example rather than the broader category. The 'paradox' attack (alignment faking discovered at scale) is clever but ignores that discovering problems differs from developing solutions. The aviation/nuclear backing is generic. Overall, narrower scope than prop_003's multi-channel regulatory evidence.",
+        "scored_at": "2025-11-21T06:32:43.814200+00:00"
+      }
+    ]
+  },
+  "prop_004": {
+    "current_score": 0.25,
+    "history": [
+      {
+        "score": 0.25,
+        "reasoning": "Executes a clever logical inversion\u2014if emergence is unpredictable, acceleration is irrational\u2014but the philosophical move lacks fresh evidence beyond reframing existing materials. Anthropic circuit tracing counters the 'interpretability failing' narrative effectively, but the defense of regulatory mechanisms is immediately undermined by opp_004's enforcement gap evidence. Strategic value in exposing the opposition's self-contradiction, though the warrant attack succeeds more than the grounds-level defense.",
+        "scored_at": "2025-11-21T06:36:49.861000+00:00"
+      }
+    ]
+  },
+  "opp_004": {
+    "current_score": -0.25,
+    "history": [
+      {
+        "score": -0.25,
+        "reasoning": "Delivers strong factual rebuttals\u2014the August 2026 enforcement delay is a damaging revelation against prop_003, and export control circumvention evidence is well-documented. However, fails to engage prop_004's core philosophical argument about precautionary logic under uncertainty. The fragmentation thesis is compelling but the argument essentially restates opp_002's coordination concerns with updated evidence rather than advancing genuinely novel ground. Solid execution but limited strategic novelty at this stage.",
+        "scored_at": "2025-11-21T06:36:49.861656+00:00"
+      }
+    ]
+  }
+}

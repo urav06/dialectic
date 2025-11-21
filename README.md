@@ -161,7 +161,7 @@ pineapples-on-pizza/
 
 ## Example Debates
 
-**[Halting AGI Development](./halt-ai-development/)** — This house would pause the development of artificial general intelligence until robust safety frameworks are established.
+**[Halt AI Development](./halt-ai-development/)** — This house would pause the development of artificial general intelligence until robust safety frameworks are established.
 
 <!-- Add more debates as they're created -->
 
