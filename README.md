@@ -163,6 +163,8 @@ pineapples-on-pizza/
 
 **[Halt AI Development](./halt-ai-development/)** — This house would pause the development of artificial general intelligence until robust safety frameworks are established.
 
+**[PhD Research Autonomy](./phd-research-autonomy/)** — PhD students should follow their gut, not their supervisor, when choosing their research topic.
+
 <!-- Add more debates as they're created -->
 
 ---

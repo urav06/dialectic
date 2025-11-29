@@ -1,0 +1,222 @@
+{
+  "prop_000a": {
+    "current_score": 0.45,
+    "history": [
+      {
+        "score": 0.45,
+        "reasoning": "Strongest proposition argument with robust self-determination theory backing, direct Australian completion data (85% non-completion), and clear causal mechanism linking autonomous motivation to persistence. Empirical evidence from 1060-student study establishes psychological foundation convincingly. Most strategically complete argument addressing the motion's core concern.",
+        "scored_at": "2025-11-29T03:01:56.710945+00:00"
+      }
+    ]
+  },
+  "prop_000b": {
+    "current_score": -0.25,
+    "history": [
+      {
+        "score": -0.25,
+        "reasoning": "Innovation outcomes are tangential to the motion's focus on topic choice wisdom. Evidence shows supervisor control reduces creativity, but doesn't address whether students can make viable initial choices. Strategically weak positioning - research quality matters less than completion and appropriate scope selection for this debate.",
+        "scored_at": "2025-11-29T03:01:56.711288+00:00"
+      }
+    ]
+  },
+  "prop_000c": {
+    "current_score": 0.05,
+    "history": [
+      {
+        "score": 0.05,
+        "reasoning": "Sound evidence linking personal interest to deep learning and sustained engagement. However, substantially overlaps with prop_000a's motivation argument without adding significant new strategic ground. The 2025 Scientific Reports study adds empirical weight, but the core thesis is redundant, reducing novelty value.",
+        "scored_at": "2025-11-29T03:01:56.711397+00:00"
+      }
+    ]
+  },
+  "opp_000a": {
+    "current_score": 0.4,
+    "history": [
+      {
+        "score": 0.4,
+        "reasoning": "Introduces Dunning-Kruger effect as fundamental challenge to student judgment capability. Strong metacognitive framework establishes that novices cannot accurately assess their own topic viability. Empirically grounded with psychological research. Directly undermines assumption that 'gut feelings' constitute reliable decision-making, making this strategically devastating to proposition's core claim.",
+        "scored_at": "2025-11-29T03:01:56.711501+00:00"
+      }
+    ]
+  },
+  "opp_000b": {
+    "current_score": 0.1,
+    "history": [
+      {
+        "score": 0.1,
+        "reasoning": "Provides concrete institutional knowledge about Australian funding structures and resource constraints. Boundary knowledge concept is valuable and practical. However, evidence is more descriptive than causal - doesn't strongly establish that supervisor guidance produces better outcomes, just that supervisors possess relevant knowledge.",
+        "scored_at": "2025-11-29T03:01:56.711608+00:00"
+      }
+    ]
+  },
+  "opp_000c": {
+    "current_score": -0.75,
+    "history": [
+      {
+        "score": -0.75,
+        "reasoning": "Fatally circular reasoning: cites completion data to argue supervisor guidance improves completion, but provides no evidence that supervisor-chosen topics actually produce higher completion rates than student-chosen topics. The same Australian data is used by prop_000a to reach opposite conclusions. Lacks independent causal mechanism, making this strategically vacuous.",
+        "scored_at": "2025-11-29T03:01:56.711725+00:00"
+      }
+    ]
+  },
+  "prop_001": {
+    "current_score": -0.3,
+    "history": [
+      {
+        "score": -0.3,
+        "reasoning": "The argument develops sophisticated first-person epistemology distinguishing passion-expertise from frontier-expertise, backed by strong empirical evidence on passion's role in engagement. However, its attacks misfire significantly. The opp_000c grounds attack claims opposition sources contradict themselves without engaging the collaborative development framework. The opp_000a warrant attack concedes supervisors provide essential guidance on frontiers and methodology but offers no mechanism for how this guidance operates if students choose topics independently. The argument establishes passion matters but fails to address how passion alone navigates feasibility constraints.",
+        "scored_at": "2025-11-29T03:05:41.283278+00:00"
+      }
+    ]
+  },
+  "opp_001": {
+    "current_score": 0.3,
+    "history": [
+      {
+        "score": 0.3,
+        "reasoning": "The argument strategically reframes the debate by exposing the false binary underlying the motion, supported by self-determination theory showing autonomy and competence as complementary needs rather than competing values. Evidence on collaborative supervision practices and PhD failure modes creates a strong empirical foundation demonstrating both extremes fail. The attacks effectively expose prop's conflation of guidance with imposition and highlight the mechanistic gap in how student-chosen topics achieve viability. The collaborative development framework directly addresses the motion's framing weakness, though the argument could strengthen by more explicitly addressing the Australian context specified in scope.",
+        "scored_at": "2025-11-29T03:05:41.283897+00:00"
+      }
+    ]
+  },
+  "prop_002": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Strong evidence from Australian PhD governance research directly relevant to scope. The BMC Medical Education study provides compelling qualitative data on power asymmetry undermining collaboration. The grounds attack on opp_001 effectively identifies the 'tricky autonomy' caveat. Defense of prop_000b successfully distinguishes topic selection from methodology. However, doesn't directly engage with opp_002's mastery-centric challenge about whether gut feelings are reliable predictors, leaving that line of attack undefended.",
+        "scored_at": "2025-11-29T03:09:17.513409+00:00"
+      }
+    ]
+  },
+  "opp_002": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "Introduces valuable mastery-centric framework about passion development, but evidence quality is weaker. Psychological Science research is generic to passion generally, not PhD-specific. Academia Stack Exchange relies on anecdotal testimony rather than systematic research. UQ evidence about topic evolution is descriptive but doesn't establish whether supervisor-guided changes are superior to gut-driven persistence. Attacks on prop_001 are strategically sound but don't engage with prop_002's power asymmetry argument, missing the central thrust of current proposition position.",
+        "scored_at": "2025-11-29T03:09:17.514053+00:00"
+      }
+    ]
+  },
+  "prop_003": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Strong grounds attack exploiting temporal paradox in application timeline versus mastery development. Evidence of supervisor conflicts of interest adds weight. Warrant effectively converts opposition's mastery framework into support for gut-driven choice. Defense successfully reframes prop_001 around present-moment knowing versus future-state prediction. Minor weakness: doesn't address opposition's topic-methodology inseparability challenge, focusing instead on earlier exchange arguments.",
+        "scored_at": "2025-11-29T03:14:44.585085+00:00"
+      }
+    ]
+  },
+  "opp_003": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "Introduces genuinely novel framework about topic-methodology inseparability with solid philosophical backing. Evidence demonstrates topics require transformation through expertise. However, attacks misfire: prop_002 warrant attack's 'proves too much' logic oversimplifies the power asymmetry concern, and grounds attack misreads evidence about outmaneuvering. Defense merely restates collaboration claim without addressing temporal paradox raised by prop_003. Strategic positioning weak\u2014doesn't engage with application timeline problem.",
+        "scored_at": "2025-11-29T03:14:44.585811+00:00"
+      }
+    ]
+  },
+  "prop_004": {
+    "current_score": -0.4,
+    "history": [
+      {
+        "score": -0.4,
+        "reasoning": "Provides solid evidence on supervisor power asymmetries and gatekeeper functions, but represents thematic reinforcement of earlier power dynamics arguments rather than strategic innovation. The attacks competently challenge opponent positions but don't overcome opp_004's institutional design reframing. Power asymmetry claims remain valid but insufficient against structured confirmation processes with independent oversight that mitigate veto power concerns.",
+        "scored_at": "2025-11-29T03:19:53.535035+00:00"
+      }
+    ]
+  },
+  "opp_004": {
+    "current_score": 0.4,
+    "history": [
+      {
+        "score": 0.4,
+        "reasoning": "Introduces significant strategic innovation by leveraging Australian PhD confirmation processes as institutional architecture resolving temporal constraints. Evidence demonstrates application topics are preliminary with structured 6-12 month refinement periods and independent panel oversight. This framework shift undermines proposition's core temporal paradox framing while providing institutional safeguards against supervisor control. Represents genuine advancement beyond earlier collaborative ideal arguments through concrete procedural mechanisms.",
+        "scored_at": "2025-11-29T03:19:53.535894+00:00"
+      }
+    ]
+  },
+  "prop_005": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Introduces substantial new evidence on institutional barriers (visa implications, funding constraints, supervisor-approval requirements) that meaningfully advances the proposition's case. The sunk cost fallacy research effectively undermines opposition's staged-flexibility narrative. However, the warrant connection between 'lock-in exists' and 'therefore gut choice essential' remains implicit rather than demonstrated\u2014students might still benefit from supervisor guidance even if later pivots are difficult. Strategic impact is strong as it directly attacks opp_004's confirmation-as-liberation framework with concrete administrative barriers.",
+        "scored_at": "2025-11-29T03:23:39.586239+00:00"
+      }
+    ]
+  },
+  "opp_005": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "Evidence on PhD failure rates and scope misjudgment is relevant but largely restates the opposition's established expertise-necessity position without adding novel dimensions. The reframing of veto power as 'protective gatekeeping' is rhetorically interesting but doesn't address the core proposition concern about initial topic selection autonomy. The grounds attack on prop_003 misunderstands the proposition's argument about application-stage commitment. Defensively reinforces opp_004 but doesn't advance new strategic ground, making this primarily consolidation rather than progression in a debate approaching convergence.",
+        "scored_at": "2025-11-29T03:23:39.586901+00:00"
+      }
+    ]
+  },
+  "prop_006": {
+    "current_score": -0.2,
+    "history": [
+      {
+        "score": -0.2,
+        "reasoning": "Strong procedural evidence establishes supervisor gatekeeping before panel review, effectively undermining opposition's independence claims. However, this primarily refines existing structural critiques rather than opening new strategic terrain. The warrant connecting gatekeeping to panel ineffectiveness is sound but somewhat circular, proving supervisor involvement we already knew existed. Limited novelty weakens impact despite solid execution.",
+        "scored_at": "2025-11-29T03:27:48.872053+00:00"
+      }
+    ]
+  },
+  "opp_006": {
+    "current_score": 0.2,
+    "history": [
+      {
+        "score": 0.2,
+        "reasoning": "Introduces consequentialist dimension focusing on catastrophic failure from gut-driven selection, shifting debate terrain effectively. Concrete failure narratives combined with international student visa barriers create compelling causal chain about irreversible unviable commitments. Successfully exploits timing asymmetry: early supervisor correction prevents years of wasted investment. Stronger novelty and strategic positioning through consequences rather than procedural restatement, though evidence remains partially anecdotal.",
+        "scored_at": "2025-11-29T03:27:48.873552+00:00"
+      }
+    ]
+  },
+  "prop_007": {
+    "current_score": 0.45,
+    "history": [
+      {
+        "score": 0.45,
+        "reasoning": "Introduces high-quality peer-reviewed evidence on Australian PhD mental health crisis with quantitative modeling of autonomy mechanisms. Successfully pivots debate to psychological wellbeing framework with devastating statistics (45% depression, 36% suicide risk). Strategically reframes opposition gatekeeping as causing the crisis it claims to prevent. Evidence quality and novelty substantially exceed opposition.",
+        "scored_at": "2025-11-29T03:31:29.185080+00:00"
+      }
+    ]
+  },
+  "opp_007": {
+    "current_score": -0.45,
+    "history": [
+      {
+        "score": -0.45,
+        "reasoning": "Logical supervisor-change lock-in argument undermined by weak evidence base: relies on blog post, policy documents, and medium.com rather than peer-reviewed research. Speculative causal chain assumes gut choices lead to supervisor incompatibility without frequency data. Cannot match proposition's quantitative mental health evidence or analytical rigor. Sound strategic concept poorly executed evidentially.",
+        "scored_at": "2025-11-29T03:31:29.185964+00:00"
+      }
+    ]
+  },
+  "prop_008": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Delivers devastating structural analysis showing supervisor approval precedes panel review at three Australian universities, systematically dismantling opposition's panel independence framework. The sequential gatekeeping logic is ironclad: panels cannot protect autonomy if they only see supervisor-approved proposals. Self-determination theory evidence linking control to autonomy thwarting strengthens warrant. However, attacks somewhat restate earlier positions about directive supervision rather than introducing fundamentally new dimensions, limiting novelty at this late debate stage.",
+        "scored_at": "2025-11-29T03:34:55.396850+00:00"
+      }
+    ]
+  },
+  "opp_008": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "Introduces valuable perception gap framework with strong empirical grounding in expectation mismatch research, showing students underestimate guidance needs while supervisors underestimate vulnerability. The 89% versus 43% completion differential provides compelling quantitative support. However, critically conflates collaborative selection with supervisor control, failing to address proposition's core structural critique about mandatory approval gatekeeping. The argument establishes collaboration's value but doesn't resolve how students can pursue gut-driven topics when supervisors can veto before panel review.",
+        "scored_at": "2025-11-29T03:34:55.397850+00:00"
+      }
+    ]
+  }
+}
