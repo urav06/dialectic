@@ -1,0 +1,122 @@
+{
+  "prop_000a": {
+    "current_score": 0.2,
+    "history": [
+      {
+        "score": 0.2,
+        "reasoning": "Provides rigorous formal definition from authoritative neuroscience sources with hierarchical scaling evidence. However, establishes mathematical structure without addressing whether this formalism corresponds to natural boundaries versus researcher-imposed partitions. Strong logical rigor but vulnerable to ontological critique that remains undefended.",
+        "scored_at": "2025-12-03T08:21:40.888183+00:00"
+      }
+    ]
+  },
+  "prop_000b": {
+    "current_score": 0.1,
+    "history": [
+      {
+        "score": 0.1,
+        "reasoning": "Solid neurophysiological grounding for unidirectional sensory transduction with appropriate molecular mechanisms. Evidence from StatPearls is reliable but relatively narrow, focusing on one boundary component. Thermodynamic irreversibility backing is sound but doesn't address whether these mechanisms constitute a Markov blanket versus simply unidirectional channels.",
+        "scored_at": "2025-12-03T08:21:40.889078+00:00"
+      }
+    ]
+  },
+  "prop_000c": {
+    "current_score": -0.1,
+    "history": [
+      {
+        "score": -0.1,
+        "reasoning": "Coherent active inference framework from credible source but limited to specific theoretical perspective as qualifier acknowledges. Motor prediction architecture is well-explained but empirical grounding is weaker than other proposition arguments. Doesn't demonstrate necessity of blanket formalism for explaining motor function versus alternative frameworks.",
+        "scored_at": "2025-12-03T08:21:40.889186+00:00"
+      }
+    ]
+  },
+  "opp_000a": {
+    "current_score": 0.5,
+    "history": [
+      {
+        "score": 0.5,
+        "reasoning": "Devastating philosophical critique from peer-reviewed sources in Physics of Life Reviews distinguishing epistemic tools from ontological entities. Grasshopper example demonstrates structural instability requiring arbitrary redefinition. Directly undermines motion's existential claim by showing boundaries are stipulated not discovered. Strong evidence quality, logical rigor, and strategic impact exposing category error.",
+        "scored_at": "2025-12-03T08:21:40.889284+00:00"
+      }
+    ]
+  },
+  "opp_000b": {
+    "current_score": -0.2,
+    "history": [
+      {
+        "score": -0.2,
+        "reasoning": "Invokes embodied cognition and dynamical systems theory but evidence lacks specificity. Citations describe continuous coupling without demonstrating formal violation of conditional independence given blanket states. Stanford Encyclopedia reference is authoritative but general. Fails to engage with how coupled systems can still satisfy Markov properties at appropriate timescales.",
+        "scored_at": "2025-12-03T08:21:40.889388+00:00"
+      }
+    ]
+  },
+  "opp_000c": {
+    "current_score": -0.5,
+    "history": [
+      {
+        "score": -0.5,
+        "reasoning": "Weakest argument relying on Wikipedia and general claims about bidirectionality. Fundamentally misunderstands Markov blanket formalism which permits bidirectional influence mediated through blanket states. Brain-machine interface evidence doesn't demonstrate violation of conditional independence structure. Lacks engagement with formal requirements and commits strawman error regarding unidirectionality.",
+        "scored_at": "2025-12-03T08:21:40.889498+00:00"
+      }
+    ]
+  },
+  "prop_001": {
+    "current_score": 0.45,
+    "history": [
+      {
+        "score": 0.45,
+        "reasoning": "Strong theoretical foundation distinguishing dynamical coupling from statistical dependence, supported by authoritative sources (Friston, Pearl). The warrant effectively clarifies conceptual confusion by demonstrating how sparse coupling at steady state generates conditional independence. The coupled pendulum analogy strategically illustrates the core distinction. Evidence from Albarracin providing dimensional scaling laws strengthens the claim's generality. Attack on opp_000b is well-targeted, though the current exchange doesn't include opp_000b for verification.",
+        "scored_at": "2025-12-03T08:24:46.988537+00:00"
+      }
+    ]
+  },
+  "opp_001": {
+    "current_score": -0.45,
+    "history": [
+      {
+        "score": -0.45,
+        "reasoning": "Introduces novel temporal dimension with legitimate neuroscience evidence showing multiple independent timescales. However, the warrant contains a logical gap: demonstrating timescale multiplicity doesn't establish that blanket identification is impossible, only that analysis might be scale-dependent. Fails to engage with nonequilibrium steady-state framework where temporal averaging resolves scale issues. The attack targets prop_000b rather than prop_001, missing opportunity to challenge the steady-state assumption directly. Evidence quality is solid but strategic impact is weakened by incomplete reasoning chain.",
+        "scored_at": "2025-12-03T08:24:46.989390+00:00"
+      }
+    ]
+  },
+  "prop_002": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "This argument pivots from statistical to physical grounding but introduces a critical vulnerability. By emphasizing thermodynamic self-organization and nonequilibrium steady-state as the physical basis for Markov blankets, it concedes dependence on steady-state conditions. The Kirchhoff citation describes discovered boundaries in living systems, but the bacterial chemoreceptor evidence (time-reversal symmetry breaking) demonstrates irreversibility in isolated sensory processes, not brain-environment conditional independence. The attack on opp_000a conflates metabolic boundaries with brain-environment blankets without demonstrating equivalence. Most problematically, this grounds the entire proposition framework on steady-state assumptions that opp_002 exploits devastatingly.",
+        "scored_at": "2025-12-03T08:29:21.935905+00:00"
+      }
+    ]
+  },
+  "opp_002": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Highly effective strategic move exploiting the steady-state assumption embedded in prop_001 and now reinforced by prop_002. The Baltieri-Isomura evidence directly contradicts the proposition's thermodynamic claims, showing distance from equilibrium prevents Markov blankets. The Hebbian plasticity and attention-switching evidence demonstrates that essential cognitive functions operate far from steady state. The warrant is devastating: if blankets require steady state but cognition requires non-steady dynamics, no blanket exists during actual brain-environment interaction. The defense of opp_000b effectively reframes the earlier coupling argument as vindicated by proposition's steady-state concession. Strong logical structure with authoritative evidence targeting the framework's foundational assumption.",
+        "scored_at": "2025-12-03T08:29:21.936726+00:00"
+      }
+    ]
+  },
+  "prop_003": {
+    "current_score": 0.35,
+    "history": [
+      {
+        "score": 0.35,
+        "reasoning": "Introduces metastability framework with very recent evidence (2024-2025) that directly dissolves steady-state objection by showing learning operates within nonequilibrium stationary states. Strong attack exposes opponent's conflation of steady state with static equilibrium. Strategic dissolution of core objection rather than mere rebuttal. Evidence quality excellent with primary neuroscience sources. Minor limitation: transitions between metastable states may still challenge strict conditional independence during transition moments.",
+        "scored_at": "2025-12-03T08:33:33.891436+00:00"
+      }
+    ]
+  },
+  "opp_003": {
+    "current_score": -0.35,
+    "history": [
+      {
+        "score": -0.35,
+        "reasoning": "Control volume critique introduces novel analytical angle but suffers category confusion: requirements for thermodynamic analysis don't prove physical boundaries are merely stipulated. Self-undermining claim (optimization destabilizes boundaries) is intellectually sharp but underdeveloped. Biehl mathematical critique cited secondhand. Attack on prop_002 doesn't engage prop_003's metastability framework. Strategically tangential to core debate about whether conditional independence persists during cognitive function, focusing instead on methodological questions about boundary definition.",
+        "scored_at": "2025-12-03T08:33:33.892290+00:00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,52 @@
+---
+config:
+  layout: elk
+  elk:
+    nodePlacementStrategy: NETWORK_SIMPLEX
+---
+graph TD
+
+    opp_000a["opp_000a<br/>Arbitrary Partitioning Undermines Ontological Claims<br/>⭐ 0.50"]
+    style opp_000a fill:#B71C1C,stroke:#F44336,stroke-width:2px,color:#FFFFFF
+    opp_000b["opp_000b<br/>Continuous Dynamical Coupling Violates Conditional Independence<br/>⭐ -0.20"]
+    style opp_000b fill:#B71C1C,stroke:#F44336,stroke-width:2px,color:#FFFFFF
+    opp_000c["opp_000c<br/>Sensorimotor Channels Exhibit Bidirectional Information Flow<br/>⭐ -0.50"]
+    style opp_000c fill:#B71C1C,stroke:#F44336,stroke-width:2px,color:#FFFFFF
+    opp_001["opp_001<br/>Temporal Grain Indeterminacy Prevents Blanket Identification<br/>⭐ -0.45"]
+    style opp_001 fill:#B71C1C,stroke:#F44336,stroke-width:2px,color:#FFFFFF
+    opp_002["opp_002<br/>Steady-State Assumption Excludes Essential Cognitive Dynamics<br/>⭐ 0.35"]
+    style opp_002 fill:#B71C1C,stroke:#F44336,stroke-width:2px,color:#FFFFFF
+    opp_003["opp_003<br/>Thermodynamic Optimization Requires External Boundary Imposition<br/>⭐ -0.35"]
+    style opp_003 fill:#B71C1C,stroke:#F44336,stroke-width:2px,color:#FFFFFF
+    prop_000a["prop_000a<br/>Formal Statistical Independence Through Blanket States<br/>⭐ 0.20"]
+    style prop_000a fill:#1B5E20,stroke:#4CAF50,stroke-width:2px,color:#FFFFFF
+    prop_000b["prop_000b<br/>Sensory Transduction as Unidirectional Boundary Mechanism<br/>⭐ 0.10"]
+    style prop_000b fill:#1B5E20,stroke:#4CAF50,stroke-width:2px,color:#FFFFFF
+    prop_000c["prop_000c<br/>Active Inference Implements Unidirectional Motor Boundary<br/>⭐ -0.10"]
+    style prop_000c fill:#1B5E20,stroke:#4CAF50,stroke-width:2px,color:#FFFFFF
+    prop_001["prop_001<br/>Coupling Enables Rather Than Violates Statistical Independence<br/>⭐ 0.45"]
+    style prop_001 fill:#1B5E20,stroke:#4CAF50,stroke-width:2px,color:#FFFFFF
+    prop_002["prop_002<br/>Thermodynamic Self-Organization Establishes Physical Boundaries<br/>⭐ -0.35"]
+    style prop_002 fill:#1B5E20,stroke:#4CAF50,stroke-width:2px,color:#FFFFFF
+    prop_003["prop_003<br/>Metastable Dynamics Reconcile Learning with Steady State<br/>⭐ 0.35"]
+    style prop_003 fill:#1B5E20,stroke:#4CAF50,stroke-width:2px,color:#FFFFFF
+
+    opp_001 -->|⚔️ grounds| prop_000b
+    opp_002 -->|⚔️ grounds| prop_001
+    opp_002 -->|🛡️ clarify| opp_000b
+    opp_003 -->|⚔️ grounds| prop_002
+    opp_003 -->|🛡️ reinforce| opp_000a
+    prop_001 -->|⚔️ warrant| opp_000b
+    prop_002 -->|⚔️ grounds| opp_000a
+    prop_002 -->|🛡️ clarify| prop_000b
+    prop_003 -->|⚔️ grounds| opp_002
+
+    linkStyle 0 stroke:#ff9800,stroke-width:2px
+    linkStyle 1 stroke:#ff9800,stroke-width:2px
+    linkStyle 2 stroke:#2196F3,stroke-width:2px
+    linkStyle 3 stroke:#ff9800,stroke-width:2px
+    linkStyle 4 stroke:#2196F3,stroke-width:2px
+    linkStyle 5 stroke:#ff9800,stroke-width:2px
+    linkStyle 6 stroke:#ff9800,stroke-width:2px
+    linkStyle 7 stroke:#2196F3,stroke-width:2px
+    linkStyle 8 stroke:#ff9800,stroke-width:2px

@@ -165,6 +165,8 @@ pineapples-on-pizza/
 
 **[PhD Research Autonomy](./phd-research-autonomy/)** — PhD students should follow their gut, not their supervisor, when choosing their research topic.
 
+**[Markov Blanket between Brain & Environment](./markov-blanket-brain-environment/)** - There exist a Markov Blanket consisting of sensory and active channels that conditionally separates brain from the environment.
+
 <!-- Add more debates as they're created -->
 
 ---
